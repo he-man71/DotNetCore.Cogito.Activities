@@ -2,7 +2,7 @@
     <PropertyGroup>
         <Authors>Jerome Haltom</Authors>
         <Company>Jerome Haltom</Company>
-        <RepositoryUrl>https://github.com/wasabii/Cogito.Activities</RepositoryUrl>
+        <RepositoryUrl>https://github.com/wasabii/Cogito</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageLicenseUrl>https://raw.github.com/wasabii/Cogito.Activities/master/LICENSE</PackageLicenseUrl>
         <PackageProjectUrl>https://github.com/wasabii/Cogito.Activities</PackageProjectUrl>
