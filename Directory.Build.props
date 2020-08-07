@@ -2,7 +2,7 @@
     <PropertyGroup>
         <Authors>Jerome Haltom</Authors>
         <Company>Alethic Solutions</Company>
-        <RepositoryUrl>https://github.com/alethic/Cogito</RepositoryUrl>
+        <RepositoryUrl>https://github.com/alethic/Cogito.Activities</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>wwf activities</PackageTags>
         <PackageProjectUrl>https://github.com/alethic/Cogito.Activities</PackageProjectUrl>
